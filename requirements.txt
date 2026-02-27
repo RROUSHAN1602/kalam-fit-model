@@ -5,3 +5,7 @@ pyotp
 smartapi-python
 statsmodels
 plotly
+ta
+logzero
+websocket-client
+openpyxl
